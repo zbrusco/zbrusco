@@ -19,6 +19,7 @@ Software Engineering student focused on backend systems, data-driven tools, and 
   <img src="https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=white" alt="Linux" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-gray?style=flat&logo=c&logoColor=white" alt="C" />
 </p>
+
 ### 📚 Certifications
 - Harvard CS50x / CS50p
 - GitHub Foundations (Credly badge [here](https://www.credly.com/badges/14bddc03-f962-46bc-8c39-66678599b199/public_url))
