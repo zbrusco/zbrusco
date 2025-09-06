@@ -24,6 +24,7 @@ Software Engineering student focused on backend systems, data-driven tools, and 
 
 ### 📚 Certifications
 - Harvard CS50x / CS50p
+- Scrimba's [Learn React](https://github.com/user-attachments/files/22191124/learn-react.pdf)
 - GitHub Foundations (Credly badge [here](https://www.credly.com/badges/14bddc03-f962-46bc-8c39-66678599b199/public_url))
 
 ---
